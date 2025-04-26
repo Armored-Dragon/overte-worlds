@@ -30,7 +30,7 @@
         "x": 500,
         "y": 500
     },
-    "materialData": "{\"materialVersion\":1,\"materials\":[{\"albedo\":[1,1,1],\"albedoMap\":\"https://armored-dragon.github.io/Overte-Worlds/GridWorld/textures/texture_01.png\",\"cullFaceMode\":\"CULL_BACK\",\"emissive\":[0,0,0],\"metallic\":0.001,\"model\":\"hifi_pbr\",\"name\":\"Grid\",\"normalMap\":\"https://armored-dragon.github.io/Overte-Worlds/GridWorld/textures/texture_01_n4.png\",\"opacity\":1,\"roughness\":1,\"scattering\":0}]}",
+    "materialData": "{\"materialVersion\":1,\"materials\":[{\"albedo\":[1,1,1],\"albedoMap\":\"https://armored-dragon.github.io/overte-worlds/GridWorld/textures/texture_01.png\",\"cullFaceMode\":\"CULL_BACK\",\"emissive\":[0,0,0],\"metallic\":0.001,\"model\":\"hifi_pbr\",\"name\":\"Grid\",\"normalMap\":\"https://armored-dragon.github.io/overte-worlds/GridWorld/textures/texture_01_n4.png\",\"opacity\":1,\"roughness\":1,\"scattering\":0}]}",
     "clientOnly": false,
     "avatarEntity": false,
     "localEntity": false,
@@ -88,7 +88,7 @@
             "green": 255,
             "blue": 255
         },
-        "url": "https://armored-dragon.github.io/Overte-Worlds/GridWorld/textures/skybox.webp"
+        "url": "https://armored-dragon.github.io/overte-worlds/GridWorld/textures/skybox.webp"
     },
     "haze": {
         "hazeRange": 2005,
