@@ -3,7 +3,7 @@ This is a collection of worlds I have made in Overte that are freely accessible.
 To visit any of these worlds, just copy the provided url into the Places app search bar.
 
 ## GridWorld
-<img src="./GridWorld/banner.png" width="300"/>
+<img src="./GridWorld/banner.png" width="400"/>
 
 A simple flat grid world. 
 
