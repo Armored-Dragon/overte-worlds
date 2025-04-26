@@ -1,0 +1,151 @@
+{
+  "DataVersion": 0,
+   "Paths":{
+      "\/":"\/0.0,0.5,0.0\/0,0.0,0,0.0"
+   },
+  "Entities": [
+    {
+    "id": "{a2c06241-5b7d-4322-b8df-46bf963a5213}",
+    "type": "Material",
+    "lastEdited": 1745676576653242,
+    "parentID": "{b345905f-2b60-41ae-8bcb-dfce2e229e54}",
+    "name": "Grid Texture",
+    "created": 1745675761262438,
+    "lastEditedBy": "{b62e0067-f045-4bcd-9ba8-46e794291565}",
+    "queryAACube": {
+        "x": -37.6087646484375,
+        "y": -79.79097747802734,
+        "z": -110.81391906738281,
+        "scale": 141.4222412109375
+    },
+    "grab": {
+        "grabbable": false
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "materialURL": "materialData",
+    "materialMappingMode": "triplanar",
+    "priority": 1,
+    "materialMappingScale": {
+        "x": 500,
+        "y": 500
+    },
+    "materialData": "{\"materialVersion\":1,\"materials\":[{\"albedo\":[1,1,1],\"albedoMap\":\"https://armored-dragon.github.io/Overte-Worlds/GridWorld/textures/texture_01.png\",\"cullFaceMode\":\"CULL_BACK\",\"emissive\":[0,0,0],\"metallic\":0.001,\"model\":\"hifi_pbr\",\"name\":\"Grid\",\"normalMap\":\"https://armored-dragon.github.io/Overte-Worlds/GridWorld/textures/texture_01_n4.png\",\"opacity\":1,\"roughness\":1,\"scattering\":0}]}",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{381462aa-2768-41c8-a040-fa36b9183dfc}",
+    "type": "Zone",
+    "lastEdited": 1745676475377213,
+    "position": {
+        "x": 0,
+        "y": 490,
+        "z": 0
+    },
+    "dimensions": {
+        "x": 1000,
+        "y": 1000,
+        "z": 1000
+    },
+    "created": 1745675921392103,
+    "lastEditedBy": "{b62e0067-f045-4bcd-9ba8-46e794291565}",
+    "queryAACube": {
+        "x": -866.025390625,
+        "y": -376.025390625,
+        "z": -866.025390625,
+        "scale": 1742.05078125
+    },
+    "grab": {
+        "grabbable": false
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "box",
+    "keyLight": {
+        "intensity": 2,
+        "direction": {
+            "x": 0.42368823289871216,
+            "y": -0.6365371942520142,
+            "z": -0.6444445252418518
+        },
+        "castShadows": true
+    },
+    "ambientLight": {
+        "ambientIntensity": 0.10000000149011612,
+        "ambientColor": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+        }
+    },
+    "skybox": {
+        "color": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+        },
+        "url": "https://armored-dragon.github.io/Overte-Worlds/GridWorld/textures/skybox.webp"
+    },
+    "haze": {
+        "hazeRange": 2005,
+        "hazeAltitudeEffect": true,
+        "hazeBaseRef": 20
+    },
+    "tonemapping": {
+        "curve": "reinhard"
+    },
+    "keyLightMode": "enabled",
+    "skyboxMode": "enabled",
+    "hazeMode": "disabled",
+    "avatarPriority": "hero",
+    "tonemappingMode": "disabled",
+    "ambientOcclusionMode": "enabled",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{b345905f-2b60-41ae-8bcb-dfce2e229e54}",
+    "type": "Box",
+    "lastEdited": 1745675994012141,
+    "name": "GridLand",
+    "dimensions": {
+        "x": 1000,
+        "y": 0.5,
+        "z": 1000
+    },
+    "created": 1745675761262363,
+    "lastEditedBy": "{b62e0067-f045-4bcd-9ba8-46e794291565}",
+    "queryAACube": {
+        "x": -707.1068115234375,
+        "y": -707.1068115234375,
+        "z": -707.1068115234375,
+        "scale": 1414.213623046875
+    },
+    "grab": {
+        "grabbable": false
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 0,
+        "green": 180,
+        "blue": 239
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+}
+    ],
+  "Id": "{51582477-ee6c-43c9-baef-c5a9c774ff0a}",
+  "Version": 147
+}
