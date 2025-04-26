@@ -3,8 +3,14 @@ This is a collection of worlds I have made in Overte that are freely accessible.
 To visit any of these worlds, just copy the provided url into the Places app search bar.
 
 # GridWorld
-![GridWorld]("/GridWorld/banner.png")
+<div style="width: 60%; height: 60%">
 
-A simple flat grid world. No distractions.
+![GridWorld](/GridWorld/banner.png)
+
+</div>
+
+A simple flat grid world. 
+
+No distractions.
 
 https://armored-dragon.github.io/overte-worlds/GridWorld/GridWorld.json
